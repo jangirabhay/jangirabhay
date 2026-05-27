@@ -128,7 +128,7 @@ System Design             ██████░░░░░░░░░░  40%
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jangirabhay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jangirabhay&theme=dark&hide_border=false)
 
