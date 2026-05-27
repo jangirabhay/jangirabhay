@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **3rd-year CSE student** at Global Institute of Technology, Jaipur, passionate about building clean, user-friendly mobile applications. Currently deep-diving into React Native and the mobile development ecosystem.
+I'm a **final-year CSE student** at Global Institute of Technology, Jaipur, passionate about building clean, user-friendly mobile applications. Currently deep-diving into React Native and the mobile development ecosystem.
 
 - 🎓 Pursuing B.Tech in Computer Science Engineering at **GIT Jaipur (Sitapura)**
 - 📱 Currently learning **React Native** for cross-platform mobile app development
