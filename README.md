@@ -124,28 +124,6 @@ System Design             ██████░░░░░░░░░░  40%
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=jangirabhay&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jangirabhay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=jangirabhay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 <div align="center">
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=jangirabhay&icon=0&color=0)](https://visitcount.itsvg.in)
