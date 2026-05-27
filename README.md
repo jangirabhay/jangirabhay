@@ -122,12 +122,3 @@ System Design             ██████░░░░░░░░░░  40%
 - 📚 Consistent on LeetCode — 400+ problems and still grinding
 - 🌆 Based in Jaipur, the Pink City of India
 
----
-
-<div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=jangirabhay&icon=0&color=0)](https://visitcount.itsvg.in)
-
-*Open to collaborating on interesting React Native projects!*
-
-</div>
