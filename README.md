@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursuing my B.Tech at Global Institute of Technology,<br>Jaipur (Sitapura).<br>I am a third-year student in the Computer Science Engineering (CSE) branch.<br>I am currently learning React Native, which helps in building mobile applications.<br>I have also solved more than 350 questions on LeetCode.<br>In my free time, I enjoy playing badminton.
+I am pursuing my B.Tech at Global Institute of Technology,<br>Jaipur (Sitapura).<br>I am a third-year student in the Computer Science Engineering (CSE) branch.<br>I am currently learning React Native, which helps in building mobile applications.<br>I have also solved more than 400 questions on LeetCode.<br>In my free time, I enjoy playing badminton.
 
 
 ## 🌐 Socials:
