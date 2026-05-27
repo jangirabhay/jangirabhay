@@ -17,13 +17,13 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **final-year CSE student** at Global Institute of Technology, Jaipur, passionate about building clean, user-friendly mobile applications. Currently deep-diving into React Native and the mobile development ecosystem.
+I'm a **3rd-year CSE student** at Global Institute of Technology, Jaipur, passionate about building clean, user-friendly mobile applications. Currently deep-diving into React Native and the mobile development ecosystem.
 
 - 🎓 Pursuing B.Tech in Computer Science Engineering at **GIT Jaipur (Sitapura)**
 - 📱 Currently learning **React Native** for cross-platform mobile app development
 - 🧠 Solved **400+ problems** on LeetCode — strong foundation in DSA
 - 🏸 When not coding, you'll find me on the **badminton court**
-- 🔭 Currently working on a **private Medicine App** (React Native + Firebase)
+- 🔭 Currently building **NearHelp** — a React Native + Firebase app that connects buyers directly with nearby local sellers, eliminating the hassle of visiting multiple shops to find a product
 - 💬 Ask me about **React Native, Redux, MongoDB, or DSA**
 
 ---
@@ -66,10 +66,10 @@ A cross-platform mobile app that helps users explore recipes by keyword or ingre
 
 ---
 
-### 💊 Medicine App *(Private — In Development)*
-> Smart medication management application
+### 💊 NearHelp App *(Private — In Development)*
+> Connecting buyers directly with nearby local sellers
 
-A React Native app aimed at simplifying medication tracking and reminders. Currently in active development — stay tuned!
+Tired of visiting multiple shops just to find a product? NearHelp solves that — users can search for any product and get directly connected with the actual seller nearby, saving time and effort. Currently in active development.
 
 **Tech Stack:** `React Native` `Firebase` `Node.js`
 
